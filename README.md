@@ -1,3 +1,6 @@
+<img width="1913" height="821" alt="Initial screen" src="https://github.com/user-attachments/assets/eee60c77-419d-44ca-b025-d7978d83bf3c" />
+
+
 # Machine_Learning_Predictor
 
 🛠 Features
